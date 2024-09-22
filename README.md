@@ -1,4 +1,5 @@
-<h1 align="center"> Hello there! 👋 I'm Souradipta Saha!</h1>
+<h1 align="center"> Hello there!
+<p align="center"> I'm Souradipta Saha!</p> </h1>
 
 <p align="center">
   <em>Pursuing BTech in CSE from RCCIIT</em>
