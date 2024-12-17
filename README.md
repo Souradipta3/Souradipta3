@@ -16,10 +16,13 @@
 <img align="right" src="https://github.com/your-github-username/your-repo/blob/main/assets/coding.gif" width="300"/>
 
 # 👨‍💻 About Me:
-- 💼 *Current Role:* Undergraduate student at RCCIIT
-- 🌱 *Learning:* Machine Learning
-- 💬 *Ask me about:* AIML and DSA 
-- ⚡ *Hobbies:* Coding and Teaching 
+
+<p align="center">
+   💼 *Current Role:* Undergraduate student at RCCIIT
+   🌱 *Learning:* Artificial Intelligence & Machine Learning <br/>
+   💬 *Ask me about:* AIML and DSA 
+   ⚡ *Hobbies:* Coding and Teaching 
+</p>
 
 ---
 
@@ -54,21 +57,32 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Souradipta3&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Souradipta3&theme=neon&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souradipta3&theme=radical" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souradipta3&theme=neon&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souradipta3&layout=compact&theme=radical" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souradipta3&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ---
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Souradipta3&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Souradipta3&theme=monokai&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+---
+
+# 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Souradipta3&limit=5&theme=neon&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 
@@ -90,4 +104,10 @@
   <a href="mailto:souradipta3113@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Souradipta3&icon=5&color=6)](https://visitcount.itsvg.in" />
 </p>
