@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souradipta3&theme=neon&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souradipta3&theme=neon" />
 </p>
 
 <p align="center">
@@ -82,6 +82,14 @@
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Souradipta3&limit=5&theme=neon&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+# ⚡ LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Souradipta3?ext=activity" />
 </p>
 
 ---
@@ -109,5 +117,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Souradipta3&icon=5&color=6)](https://visitcount.itsvg.in" />
+  <img src="https://komarev.com/ghpvc/?username=Souradipta3&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
