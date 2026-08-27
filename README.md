@@ -2,13 +2,13 @@
 <p align="center"> I'm Souradipta Saha!</p> </h1>
 
 <p align="center">
-  <em>Pursuing BTech in CSE from RCCIIT</em>
+  <em>Pursuing MTech in CSE from HIT</em>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+;I'm+a+AIML+enthusiast!;Also+have+interest+in;App/Web+Development!;Coding+dreams+into+reality!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+;I'm+a+AIML+enthusiast!;Also+have+interest+in;Data+Science!;Coding+dreams+into+reality!+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 # 👨‍💻 About Me:
 
 <p align="center">
-   💼 *Current Role:* Undergraduate student at RCCIIT
+   💼 *Current Role:* Under-postgraduate student at HIT
    🌱 *Learning:* Artificial Intelligence & Machine Learning <br/>
    💬 *Ask me about:* AIML and DSA 
    ⚡ *Hobbies:* Coding and Teaching 
